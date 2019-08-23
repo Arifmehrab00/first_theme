@@ -1,0 +1,111 @@
+/*
+Theme Name:Alpa
+Theme Url :
+Author    :LWA
+Author Url:
+Description:This is my First Theme
+Version    :
+License    :
+License Url:
+Tage       :
+Text Domain:alpa
+*/
+
+.wp{
+			text-align: center;
+		font-size: 25px;
+	}
+	.wp_title{
+	    text-align: center;
+		font-size: 50px;
+		font-weight: bold;
+		color:green;
+		text-transform: uppercase;
+	}
+	.main_post {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+	.imag:hover{
+		opacity: 0.5;
+	}
+	.order_list{
+		list-style: none;
+	}
+
+	.post-pregnatin{
+		text-align: center;
+		padding: 20px 10px;
+	}
+	.footerone{
+		float: left;
+	}
+	.footertwo{
+		float: right;
+	}
+	/*menu css start */
+ul#mId {
+    list-style: none;
+    /* display: inline-block; */
+}
+
+ul#mId li {
+    display: inline;
+    margin: 10px 21px;
+}
+
+ul#mId li a {
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navigation {
+    text-align: center;
+}
+	/* menu css end*/
+	.col-8 {
+    float: left;
+    display: block;
+    overflow: hidden;
+    width: 900px;
+    padding: 10px 20px;
+}
+
+.col-4 {
+    float: left;
+    display: block;
+    padding: 20px 20px;
+}
+	.footer{
+		width: 100%;
+		text-align: center;
+		background: black;
+		color: white;
+		padding: 20px 10px;
+		overflow: hidden;
+		display: block;
+	}
+/* about-page-template css */
+.main_section{
+  		padding: 50px 50px;
+  		background-repeat: no-repeat;
+  		background-size: cover;
+  	}
+  	h1.content {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 275px;
+}
+/* logo css */
+.logo img {
+    width: 150px;
+    height: 119px;
+    border-radius: 10px;
+    align-items: center;
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+}
